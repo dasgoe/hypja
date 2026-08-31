@@ -1,0 +1,84 @@
+{
+  "lang": "fr",
+  "meta": {
+    "title": "Hypja — Coaching en cohérence cardiaque",
+    "description": "Coaching individuel en cohérence cardiaque avec biofeedback, pour sortir du stress chronique et du burn-out. Parcours de 6 semaines en Wallonie."
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "methode": "La méthode",
+    "parcours": "Le parcours",
+    "tarif": "Tarif",
+    "faq": "FAQ",
+    "reserver": "Réserver un bilan",
+    "menuToggle": "Ouvrir le menu"
+  },
+  "hero": {
+    "title": "Votre cœur a son propre rythme.<br>Apprenez à le retrouver.",
+    "lead": "Coaching individuel en cohérence cardiaque avec biofeedback. Un parcours mesurable de 6 semaines pour sortir du stress chronique — sans jargon médical, avec un retour concret dès la première séance.",
+    "ctaPrimary": "Réserver un bilan initial",
+    "ctaSecondary": "Comment ça marche"
+  },
+  "pourquoi": {
+    "heading": "Pourquoi passer par le cœur",
+    "p1": "Vous vous sentez tendu·e, submergé·e, à bout de souffle sans savoir pourquoi précisément ? Vous avez déjà essayé de \"faire des respirations\" sans jamais savoir si ça fonctionnait vraiment ?",
+    "p2": "La cohérence cardiaque part d'un principe simple : votre rythme cardiaque varie en permanence, et cette variabilité (HRV) reflète l'état de votre système nerveux autonome. En respirant à un rythme précis — le vôtre, mesuré individuellement — vous pouvez faire basculer ce système vers un état de calme physiologique. Avec un appareil de biofeedback, vous voyez cet état se former en temps réel, séance après séance.",
+    "p3": "Ce n'est pas une thérapie ni un traitement médical. C'est un entraînement concret, mesurable, que vous repartez avec."
+  },
+  "methode": {
+    "heading": "La méthode",
+    "cards": [
+      { "index": "01", "title": "Votre fréquence de résonance", "text": "Dès la première séance, on identifie votre rythme respiratoire optimal — généralement entre 4,5 et 7 respirations par minute. C'est le point de départ de tout le parcours." },
+      { "index": "02", "title": "Un retour visuel immédiat", "text": "L'appareil de biofeedback (emWave Pro) affiche en temps réel votre état de cohérence. Vous n'avez pas à \"croire\" que ça fonctionne : vous le voyez." },
+      { "index": "03", "title": "Une méthode documentée", "text": "La cohérence cardiaque par biofeedback est la forme de biofeedback la plus étudiée pour le stress et le bien-être, avec une efficacité comparable à la méditation de pleine conscience sur le stress perçu." }
+    ]
+  },
+  "parcours": {
+    "heading": "Le parcours",
+    "lead": "Six semaines, six rendez-vous. Un rythme pensé pour intégrer la pratique entre les séances, pas pour l'entasser.",
+    "steps": [
+      { "num": "1", "title": "Bilan initial — 1h", "text": "On fait le point sur votre situation, vos objectifs, et on mesure votre fréquence de résonance individuelle." },
+      { "num": "2–6", "title": "5 séances individuelles — 1h chacune", "text": "Chaque séance approfondit la pratique avec le biofeedback, en s'appuyant sur ce qui a fonctionné — ou non — depuis la dernière fois." }
+    ]
+  },
+  "tarif": {
+    "heading": "Tarif",
+    "price": "360 €",
+    "unit": "le parcours complet",
+    "items": [
+      { "text": "Bilan initial (1h) — 30 €" },
+      { "text": "5 séances individuelles (1h) — 330 €" }
+    ],
+    "cta": "Réserver mon bilan initial",
+    "note": "Nombre de parcours limité chaque semaine — les créneaux sont attribués dans l'ordre des demandes."
+  },
+  "pourqui": {
+    "heading": "Pour qui",
+    "p1": "Ce parcours s'adresse aux adultes qui traversent une période de stress prolongé ou d'épuisement, et qui cherchent un outil concret plutôt qu'une énième technique de relaxation générale.",
+    "p2": "Ce n'est pas un suivi médical ni psychologique. Si vous êtes suivi·e pour un burn-out ou une autre problématique de santé, ce parcours vient en complément — jamais en remplacement — de votre accompagnement médical."
+  },
+  "faq": {
+    "heading": "Questions fréquentes",
+    "items": [
+      { "q": "Est-ce un traitement médical ?", "a": "Non. C'est un accompagnement de type coaching / bien-être, basé sur une méthode de respiration et de biofeedback. Il ne remplace ni un suivi médical ni un suivi psychologique." },
+      { "q": "Dois-je avoir mon propre appareil ?", "a": "À compléter selon le format retenu pour les séances." },
+      { "q": "Où se déroulent les séances ?", "a": "À compléter." },
+      { "q": "Que se passe-t-il si je dois annuler une séance ?", "a": "À compléter." }
+    ]
+  },
+  "contact": {
+    "heading": "Réserver un bilan initial",
+    "lead": "Laissez vos coordonnées, je vous recontacte pour fixer un premier rendez-vous.",
+    "labels": {
+      "nom": "Nom",
+      "email": "E-mail",
+      "message": "Message",
+      "messagePlaceholder": "Quelques mots sur votre situation et vos disponibilités",
+      "submit": "Envoyer ma demande"
+    }
+  },
+  "footer": {
+    "line1": "Hypja — coaching en cohérence cardiaque · Wallonie, Belgique",
+    "legal": "N° d'entreprise : à compléter"
+  }
+}

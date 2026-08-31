@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "meta": {
+    "title": "Hypja — Heart Coherence Coaching",
+    "description": "One-on-one heart coherence coaching with biofeedback, to move past chronic stress and burnout. A 6-week programme in Wallonia, Belgium."
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "methode": "The method",
+    "parcours": "The programme",
+    "tarif": "Pricing",
+    "faq": "FAQ",
+    "reserver": "Book an intake",
+    "menuToggle": "Open menu"
+  },
+  "hero": {
+    "title": "Your heart has its own rhythm.<br>Learn to find it again.",
+    "lead": "One-on-one heart coherence coaching with biofeedback. A measurable 6-week programme to move past chronic stress — no medical jargon, with a concrete result from the first session.",
+    "ctaPrimary": "Book an intake session",
+    "ctaSecondary": "How it works"
+  },
+  "pourquoi": {
+    "heading": "Why the heart",
+    "p1": "Do you feel tense, overwhelmed, or worn out without quite knowing why? Have you already tried \"breathing exercises\" without ever knowing if they actually worked?",
+    "p2": "Heart coherence starts from a simple principle: your heart rate constantly varies, and that variability (HRV) reflects the state of your autonomic nervous system. By breathing at a precise rate — your own, measured individually — you can shift that system toward a physiological state of calm. With a biofeedback device, you watch that state form in real time, session after session.",
+    "p3": "This is not therapy and not a medical treatment. It's a concrete, measurable practice you take with you."
+  },
+  "methode": {
+    "heading": "The method",
+    "cards": [
+      { "index": "01", "title": "Your resonance frequency", "text": "From the first session, we identify your optimal breathing rate — typically between 4.5 and 7 breaths per minute. That's the starting point of the whole programme." },
+      { "index": "02", "title": "Immediate visual feedback", "text": "The biofeedback device (emWave Pro) shows your coherence state in real time. You don't have to \"believe\" it's working — you see it." },
+      { "index": "03", "title": "An evidence-based method", "text": "Heart coherence with biofeedback is the most studied form of biofeedback for stress and wellbeing, with effectiveness comparable to mindfulness meditation on perceived stress." }
+    ]
+  },
+  "parcours": {
+    "heading": "The programme",
+    "lead": "Six weeks, six sessions. A pace designed to let you integrate the practice between sessions, not cram it in.",
+    "steps": [
+      { "num": "1", "title": "Intake session — 1h", "text": "We review your situation and goals, and measure your individual resonance frequency." },
+      { "num": "2–6", "title": "5 one-on-one sessions — 1h each", "text": "Each session builds on the biofeedback practice, based on what did or didn't work since the last one." }
+    ]
+  },
+  "tarif": {
+    "heading": "Pricing",
+    "price": "€360",
+    "unit": "full programme",
+    "items": [
+      { "text": "Intake session (1h) — €30" },
+      { "text": "5 one-on-one sessions (1h) — €330" }
+    ],
+    "cta": "Book my intake session",
+    "note": "Limited number of programmes each week — slots are assigned in the order requests come in."
+  },
+  "pourqui": {
+    "heading": "Who this is for",
+    "p1": "This programme is for adults going through a period of prolonged stress or exhaustion, who are looking for a concrete tool rather than yet another general relaxation technique.",
+    "p2": "This is not medical or psychological care. If you're already being treated for burnout or another health issue, this programme is a complement to — never a replacement for — your medical care."
+  },
+  "faq": {
+    "heading": "Frequently asked questions",
+    "items": [
+      { "q": "Is this a medical treatment?", "a": "No. This is coaching / wellness support, based on a breathing and biofeedback method. It does not replace medical or psychological care." },
+      { "q": "Do I need my own device?", "a": "To be confirmed depending on the session format chosen." },
+      { "q": "Where do the sessions take place?", "a": "To be confirmed." },
+      { "q": "What happens if I need to cancel a session?", "a": "To be confirmed." }
+    ]
+  },
+  "contact": {
+    "heading": "Book an intake session",
+    "lead": "Leave your details and I'll get back to you to set up a first appointment.",
+    "labels": {
+      "nom": "Name",
+      "email": "Email",
+      "message": "Message",
+      "messagePlaceholder": "A few words about your situation and availability",
+      "submit": "Send my request"
+    }
+  },
+  "footer": {
+    "line1": "Hypja — heart coherence coaching · Wallonia, Belgium",
+    "legal": "Company number: to be completed"
+  }
+}

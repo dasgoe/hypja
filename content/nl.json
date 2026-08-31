@@ -1,0 +1,84 @@
+{
+  "lang": "nl",
+  "meta": {
+    "title": "Hypja — Coaching in hartcoherentie",
+    "description": "Individuele coaching in hartcoherentie met biofeedback, om chronische stress en burn-out achter je te laten. Traject van 6 weken in Wallonië."
+  },
+  "nav": {
+    "skip": "Naar de inhoud",
+    "methode": "De methode",
+    "parcours": "Het traject",
+    "tarif": "Tarief",
+    "faq": "Veelgestelde vragen",
+    "reserver": "Boek een intake",
+    "menuToggle": "Menu openen"
+  },
+  "hero": {
+    "title": "Je hart heeft zijn eigen ritme.<br>Leer het terugvinden.",
+    "lead": "Individuele coaching in hartcoherentie met biofeedback. Een meetbaar traject van 6 weken om chronische stress achter je te laten — zonder medisch jargon, met concreet resultaat vanaf de eerste sessie.",
+    "ctaPrimary": "Boek een intake",
+    "ctaSecondary": "Hoe het werkt"
+  },
+  "pourquoi": {
+    "heading": "Waarom via het hart",
+    "p1": "Voel je je gespannen, overweldigd, uitgeput zonder precies te weten waarom? Heb je al \"ademoefeningen\" geprobeerd zonder ooit te weten of het echt werkte?",
+    "p2": "Hartcoherentie vertrekt van een eenvoudig principe: je hartritme varieert voortdurend, en die variabiliteit (HRV) weerspiegelt de staat van je autonome zenuwstelsel. Door op een precies ritme te ademen — jouw eigen ritme, individueel gemeten — kun je dat systeem naar een fysiologische rusttoestand brengen. Met een biofeedbacktoestel zie je die toestand in real time ontstaan, sessie na sessie.",
+    "p3": "Dit is geen therapie en geen medische behandeling. Het is een concrete, meetbare training die je meeneemt."
+  },
+  "methode": {
+    "heading": "De methode",
+    "cards": [
+      { "index": "01", "title": "Jouw resonantiefrequentie", "text": "Al tijdens de eerste sessie bepalen we jouw optimale ademritme — doorgaans tussen 4,5 en 7 ademhalingen per minuut. Dat is het startpunt van het hele traject." },
+      { "index": "02", "title": "Onmiddellijke visuele feedback", "text": "Het biofeedbacktoestel (emWave Pro) toont in real time je coherentiestatus. Je hoeft niet te \"geloven\" dat het werkt: je ziet het." },
+      { "index": "03", "title": "Een onderbouwde methode", "text": "Hartcoherentie met biofeedback is de meest onderzochte vorm van biofeedback voor stress en welzijn, met een effectiviteit die vergelijkbaar is met mindfulnessmeditatie op vlak van ervaren stress." }
+    ]
+  },
+  "parcours": {
+    "heading": "Het traject",
+    "lead": "Zes weken, zes afspraken. Een ritme dat toelaat de oefening tussen de sessies te integreren, niet om ze op te stapelen.",
+    "steps": [
+      { "num": "1", "title": "Intake — 1u", "text": "We bespreken je situatie en doelen, en meten je individuele resonantiefrequentie." },
+      { "num": "2–6", "title": "5 individuele sessies — telkens 1u", "text": "Elke sessie bouwt verder op de biofeedbackoefening, op basis van wat wel of niet gewerkt heeft sinds de vorige keer." }
+    ]
+  },
+  "tarif": {
+    "heading": "Tarief",
+    "price": "360 €",
+    "unit": "volledig traject",
+    "items": [
+      { "text": "Intake (1u) — 30 €" },
+      { "text": "5 individuele sessies (1u) — 330 €" }
+    ],
+    "cta": "Boek mijn intake",
+    "note": "Beperkt aantal trajecten per week — plaatsen worden toegewezen op volgorde van aanvraag."
+  },
+  "pourqui": {
+    "heading": "Voor wie",
+    "p1": "Dit traject is bedoeld voor volwassenen die een periode van langdurige stress of uitputting doormaken, en op zoek zijn naar een concreet hulpmiddel in plaats van nog een algemene ontspanningstechniek.",
+    "p2": "Dit is geen medische of psychologische begeleiding. Ben je in begeleiding voor burn-out of een andere gezondheidskwestie, dan komt dit traject aanvullend — nooit vervangend — bovenop je medische begeleiding."
+  },
+  "faq": {
+    "heading": "Veelgestelde vragen",
+    "items": [
+      { "q": "Is dit een medische behandeling?", "a": "Nee. Dit is een coaching-/welzijnsbegeleiding, gebaseerd op een ademhalings- en biofeedbackmethode. Het vervangt geen medische of psychologische begeleiding." },
+      { "q": "Heb ik mijn eigen toestel nodig?", "a": "Aan te vullen naargelang het gekozen sessieformat." },
+      { "q": "Waar vinden de sessies plaats?", "a": "Aan te vullen." },
+      { "q": "Wat als ik een sessie moet annuleren?", "a": "Aan te vullen." }
+    ]
+  },
+  "contact": {
+    "heading": "Boek een intake",
+    "lead": "Laat je gegevens achter, ik neem contact op om een eerste afspraak vast te leggen.",
+    "labels": {
+      "nom": "Naam",
+      "email": "E-mail",
+      "message": "Bericht",
+      "messagePlaceholder": "Enkele woorden over je situatie en beschikbaarheid",
+      "submit": "Verstuur mijn aanvraag"
+    }
+  },
+  "footer": {
+    "line1": "Hypja — coaching in hartcoherentie · Wallonië, België",
+    "legal": "Ondernemingsnummer: aan te vullen"
+  }
+}
